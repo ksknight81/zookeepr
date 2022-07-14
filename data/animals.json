@@ -99,36 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Larry",
-      "species": "Lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "10"
-    },
-    {
-      "name": "hank",
-      "species": "cat",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "zany",
-        "loving",
-        "goofy"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "hank",
-      "species": "cat",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "zany",
-        "anxious"
-      ],
-      "id": "12"
     }
   ]
 }
